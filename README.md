@@ -15,8 +15,6 @@ The goal of the project is **not just to create a Match-3 game**, but to demonst
 This repository can be used as a **portfolio project** to showcase junior level gameplay programming skills.
 
 <p align="center">
-  <img src="gitfs/gif1.gif" width="600"/>
-  <img src="gitfs/gif2.gif" width="600"/>
   <img src="gitfs/gif3.gif" width="600"/>
 </p>
 
@@ -54,6 +52,10 @@ This repository can be used as a **portfolio project** to showcase junior level 
 - Tile visual registry
 
 ---
+
+<p align="center">
+  <img src="gitfs/gif1.gif" width="600"/>
+</p>
 
 ## Architecture
 
@@ -103,6 +105,10 @@ Responsibilities:
 - Control visual feedback
 
 ---
+
+<p align="center">
+  <img src="gitfs/gif2.gif" width="600"/>
+</p>
 
 ### 3. Simulation Layer (Domain Logic)
 
