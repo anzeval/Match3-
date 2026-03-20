@@ -1,4 +1,4 @@
-# Match3
+# Match3 MatchCats
 
 # Match-3 Architecture Prototype (Unity)
 
